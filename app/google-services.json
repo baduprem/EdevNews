@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "502960059051",
+    "firebase_url": "https://edevnews.firebaseio.com",
+    "project_id": "edevnews",
+    "storage_bucket": "edevnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502960059051:android:d3ccb12d619eb0e2",
+        "android_client_info": {
+          "package_name": "com.example.designmodal.edevnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502960059051-i77lv4hqvoep8dauvc2f9ccj1c32hvr2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "502960059051-i77lv4hqvoep8dauvc2f9ccj1c32hvr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVkNHRmJg24BM1J6fT1efJuzCcnECYawE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
